@@ -4,10 +4,13 @@
 * 比较简单的方法是直接装上Vizard软件（它应该会默认帮你一起装Python，但由于我当时是先装的Python，所以不是特别肯定）
 * 另一种保险的方法是先单独装一遍Python，再装一遍Vizard
 
+>     注意：新版的Mac系统都自带Python
+
+
 ### Vizard
 Vizard的官网下载地址：http://www.worldviz.com/virtual-reality-software-downloads/
 
-需要在上面选择对应自己的机型（好像没有ios客户端，mac的同学可以尝试一下能不能装windows版的。不能的话，实验室面谈时再想办法...）
+需要在上面选择对应自己的机型（好像没有mac客户端，mac的同学可以尝试一下能不能装windows版的。不能的话，实验室面谈时再想办法...）
 
 实验室用的是Vizard4，最新版是Vizard5，根据我的使用经验，两个兼容性还是比较好的，推荐你们在自己的机子上装5，到正式实验前在实验室的机子上调试就行
 
@@ -19,7 +22,7 @@ Vizard的官网下载地址：http://www.worldviz.com/virtual-reality-software-d
 确保安装的是2.7版本，因为python2和python3差别很大，很多地方不兼容（目前的趋势是开发者都在努力转向python3的兼容，一般使用者都还在用2.7）
 
 ## 测试
-以上步骤搞定之后，可以测试一下Python是否成功已经安装
+以上步骤搞定之后，可以测试一下Python是否已经成功安装
 * 【Windows】打开cmd，输入python，回车，看是否能够成功执行
 * 【Mac】（新版的Mac都自带Python）打开terminal终端（这个请自行百度一下，因为我没用过Mac），输入python，回车，看是否能够成功执行
 
