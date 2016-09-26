@@ -23,7 +23,9 @@ Vizard的官网下载地址：http://www.worldviz.com/virtual-reality-software-d
 * 【Windows】打开cmd，输入python，回车，看是否能够成功执行
 * 【Mac】（新版的Mac都自带Python）打开terminal终端（这个请自行百度一下，因为我没用过Mac），输入python，回车，看是否能够成功执行
 
-## 教程
+## 自学材料
+
+### 教程
 这里是网上的几个简单教程，有精力者可以自学一下：（以下按照文章篇幅长度排序）
 * [分分钟学会一门语言之Python篇](http://www.code123.cc/1049.html)
 * 笨办法学Python
@@ -31,4 +33,10 @@ Vizard的官网下载地址：http://www.worldviz.com/virtual-reality-software-d
   * [英文版](https://learnpythonthehardway.org/book/)
 * [廖雪峰的Python 2.7教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 * [Python基础教程](http://www.runoob.com/python/python-tutorial.html)
+
+### 公开课
+* [edX](https://www.edx.org/)上MIT开设的两门课：（不过它们好像也开始教Python3了...）
+  * 6.00.1x Introduction to Computer Science and Programming Using Python
+  * 6.00.2x Introduction to Computational Thinking and Data Science
+* 清华的[学堂在线](https://www.xuetangx.com/)和[edX](https://www.edx.org/)是一个联盟的，说不定会有上述课程的中文版
 
