@@ -95,7 +95,7 @@ Vizard的官网下载地址：http://www.worldviz.com/virtual-reality-software-d
     * 学有余力者请在下节课前预习完上述网页
   * [作业2](https://github.com/wyfsh/python_learning/blob/master/exercises/ex2.md)
     * Due on 2016/10/17 23:59:59
-    * 将3个py文件发送到我的邮箱（邮箱地址见群上留言）
+    * 将py文件发送到我的邮箱
 
 3. 2016/10/20 (TBA)
 
