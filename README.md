@@ -62,7 +62,7 @@ Vizard的官网下载地址：http://www.worldviz.com/virtual-reality-software-d
   * [分分钟学会一门语言之Python篇](http://www.code123.cc/1049.html) 1-230行
     * 注释、基本数据类型、运算符
     * 列表(List)
-    * if....elif....else 判断语句
+    * `if....elif....else`判断语句
     * 文章的122-127行似乎有问题，可以先跳过
   * [作业1](https://github.com/wyfsh/python_learning/blob/master/exercises/ex1.md)
     * Due on 2016/10/07 23:59:59
@@ -79,5 +79,23 @@ Vizard的官网下载地址：http://www.worldviz.com/virtual-reality-software-d
     ```
     * 注意整数相除、代码层次缩进等重要问题
 
-2. To be continued...
+2. 2016/10/09
+  * [分分钟学会一门语言之Python篇](http://www.code123.cc/1049.html) 完结
+    * 元组(Tuple)
+    * 字典(Dictionary)
+    * 集合(Set)
+    * `for`循环和`while`循环
+    * 异常处理
+    * 函数(Function)
+    * 类(Class)，略讲，掌握概念
+    * 模块导入`import`
+  * [Python基础教程 - 文件I/O](http://www.runoob.com/python/python-files-io.html) 刚开始
+    * `raw_input()`和`input()`的区别
+    * 文件打开
+    * 学有余力者请在下节课前预习完上述网页
+  * [作业2](https://github.com/wyfsh/python_learning/blob/master/exercises/ex2.md)
+    * Due on 2016/10/17 23:59:59
+    * 将3个py文件发送到我的邮箱（邮箱地址见群上留言）
+
+3. 2016/10/20 (TBA)
 
