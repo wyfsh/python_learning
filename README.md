@@ -96,6 +96,38 @@ Vizard的官网下载地址：http://www.worldviz.com/virtual-reality-software-d
   * [作业2](https://github.com/wyfsh/python_learning/blob/master/exercises/ex2.md)
     * Due on 2016/10/17 23:59:59
     * 将py文件发送到我的邮箱
+    * 参考答案：[题目1](https://github.com/wyfsh/python_learning/blob/master/exercises/ex2_1.py) & [题目2](https://github.com/wyfsh/python_learning/blob/master/exercises/ex2_2.py)
 
-3. 2016/10/20 (TBA)
+3. 2016/10/21
+  * [Python基础教程 - 文件I/O](http://www.runoob.com/python/python-files-io.html)
+    * 打开(`open()`)
+    * 读写(`read()` & `write()`)
+    * 关闭(`close()`)
+  * 分析实验室以前代码
+    * 导入viz等模块
+    * 画面控制
+    * 头盔追踪
+    * 键盘控制
+    * 手柄控制
+    * 添置素材
+    * 流程控制
+    * 记录数据
+    * 查看模型、查看坐标等参数
+
+<br/>
+
+## 尾声
+
+短短几次课程无法涵盖有关Python和Vizard的所有内容，在编写程序过程中总会遇到新的问题，需要大家不断地翻阅文档、查询资料，从而在实战中解决实际问题。主要途径包括但不仅限于如下几条：
+
+* Vizard自带的Vizard帮助文档和Python帮助文档
+* [Vizard Teacher in a Book](http://www.worldviz.com/virtual-reality-software-documentation/) 有中英版和示例代码（不过多年未更新了...）
+* 搜索引擎、各大Python社区
+* ...
+
+<br/>
+
+## 反馈
+
+关于本教程的诸项事宜（引用、勘误、建议、扩写、更新失效链接……），可通过Email与作者本人联系。
 
